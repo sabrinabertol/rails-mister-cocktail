@@ -1,0 +1,21 @@
+ul {
+  list-style: none;
+}
+ body {
+  background-color: #190B28;
+  color: white;
+ }
+
+.logo {
+  background-image: asset-url('logo.svg');
+  background-size: cover;
+  background-position: center;
+  height: 220px;
+}
+
+
+.logo-two {
+  background-size: cover;
+  background-position: left;
+  height: 45px;
+}
